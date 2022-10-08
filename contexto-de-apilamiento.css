@@ -156,7 +156,7 @@ input:checked{
     left: 60px;
 
     animation-name: bunny;
-    animation-duration: 10s;
+    animation-duration: 1s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
 }
@@ -185,7 +185,7 @@ input:checked{
     left: 10px;
 
     animation-name: bunny;
-    animation-duration: 10s;
+    animation-duration: 2s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
 }
@@ -199,7 +199,7 @@ input:checked{
     left: 110px;
 
     animation-name: bunny;
-    animation-duration: 11s;
+    animation-duration: 2.5s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
 }
@@ -227,7 +227,7 @@ input:checked{
     left: 170px;
 
     animation-name: bunny;
-    animation-duration: 12s;
+    animation-duration: 1.5s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
 }
